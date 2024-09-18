@@ -111,13 +111,14 @@
 <p>Recently, I'm taking some time to travel between work. Here's a random bunch of photos of my travels.
     I upload them all on Flickr.
 </p>
+<a href="https://www.flickr.com/photos/jlucasp25/" target="_blank">Check them out here!</a>
 <hr/>
 
 <h3>Where to find me</h3>
-... Later
-
+<a href="https://www.linkedin.com/in/jlucasp25/" target="_blank">LinkedIn</a>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 18 September at 23:33 WEST<br/>
+
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 18 September at 23:37 WEST<br/>
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Based
         on the work by @thmsgbrt</a></p>
