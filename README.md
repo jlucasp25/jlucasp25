@@ -91,7 +91,7 @@
         <td>21 minutes</td>
     </tr>
     <tr>
-        <td><a href="https://youtu.be/QKKyhVewhRk" target="_blank">
+        <td><a href="https://youtu.be/8EPvq0vSLko" target="_blank">
             Django form utilities</a></td>
         <td>DjangoCon Europe 2022</td>
         <td>Lightning Talk</td>
@@ -118,6 +118,6 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 18 September at 23:30 WEST<br/>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 18 September at 23:33 WEST<br/>
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Based
         on the work by @thmsgbrt</a></p>
