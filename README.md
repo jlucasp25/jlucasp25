@@ -1,7 +1,7 @@
 <h1>Hi! Welcome to my GitHub profile.</h1>
 
-<p>Welcome! </br> I'm Lucas, a Full-Stack Engineer from <b>Porto,Portugal</b>.</p>
-<p>I work full-time at CheckSec, while also developing and maintaining applications for various businesses in my spare
+<p>Welcome! </br> I'm Lucas, a Full-Stack Engineer from <b>Porto, Portugal</b>.</p>
+<p>I'm currently working full-time at CheckSec, while also developing and maintaining applications for various other companies as a freelancer in my spare
     time.</p>
 <h3>Experienced in</h3>
 <p>
@@ -51,6 +51,12 @@
     </tr>
     </thead>
     <tbody>
+    <tr>
+          <td><b>ensata</b></td>
+      <td>Portal for theorical driving road exams training</td>
+      <td>Finalizing initial version. Preparing for deployment.</td>
+      <td>Django, HTMX, AlpineJS, Tailwind</td>
+    </tr>
     <tr>
         <td><b>nitro</b></td>
         <td>Driving Schools Management Application</td>
@@ -119,6 +125,6 @@
 
 ------------
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 18 September at 23:37 WEST<br/>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 1 October at 19:50 WEST<br/>
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Based
         on the work by @thmsgbrt</a></p>
