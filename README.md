@@ -61,19 +61,7 @@
         <td><b>nitro</b></td>
         <td>Driving Schools Management Application</td>
         <td>Performance and feature improvements</td>
-        <td>Django, HTMX, Bootstrap</td>
-    </tr>
-    <tr>
-        <td><b>reality</b></td>
-        <td>Car Washing Management Application</td>
-        <td>Maintenance</td>
-        <td>Django, Bootstrap</td>
-    </tr>
-    <tr>
-        <td><b>svelte-fastmap</b></td>
-        <td>SPA to store POI and routes in a map interface</td>
-        <td>Prototyping phase</td>
-        <td>Svelte, Leaflet</td>
+        <td>Django, HTMX, Bootstrap, React, Ionic</td>
     </tr>
     </tbody>
 </table>
@@ -89,6 +77,14 @@
     </tr>
     </thead>
     <tbody>
+        <tr>
+    <td><a href="https://www.youtube.com/watch?v=SDuqa82nx90" target="_blank">
+      Django and HTMX: Patterns to Success
+    </a></td>
+<td>DjangoCon Europe 2025/EuroPython 2025/PyCon Portugal 2025</td>
+      <td>Full Talk</td>
+      <td>30 minutes</td>
+    </tr>
     <tr>
         <td><a href="https://youtu.be/QKKyhVewhRk" target="_blank">
             Building advanced backoffice interfaces using Django & HTMX</a></td>
@@ -109,7 +105,9 @@
 <h3>Other Activities</h3>
 <hr/>
 <ul>
-    <li>Preparing course for web development using Django</li>
+     <li>This year I've lectured a full-stack web development course for Python developers at my university.</li>
+    <li>After gaining a lot of experience with <b><i>htmx</i></b>, I'm focusing on learning other skills that improve my day-to-day productivity such as vim motions and using arch linux. I'm also focusing some time on learning more about UI/UX design, ReactJS and how to use agents and LLMs properly.</li>
+   <li>I'll start attending japanese lessons too.</li>
 </ul>
 
 <h3>3 Random pictures from my travels</h3>
@@ -125,6 +123,6 @@
 
 ------------
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday 1 October at 19:50 WEST<br/>
+<p align="center">This <i>README</i> file was generated on: Wednesday 1 October at 19:52 WEST<br/>
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Based
         on the work by @thmsgbrt</a></p>
